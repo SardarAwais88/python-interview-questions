@@ -2,6 +2,8 @@
 
 ### **Explanation:**
 - جب بھی آپ کسی کلاس کا object بناتے ہیں، Python خود بخود `__init__` method کو کال کرتا ہے۔
+jab b ap Kisi class ka object banate Hain  to python hud ba hud __init__` method ko call karta hai.
+__init__` method ka Kam object ki initialization Yani object ki initial state ko set karta Hain 
 - `__init__` method کا کام object کی initialization کرنا ہوتا ہے، یعنی اس object کی ابتدائی حالت (initial state) کو سیٹ کرنا۔
 - آپ `__init__` method کے اندر object کے attributes کو define کر سکتے ہیں اور انہیں ابتدائی values دے سکتے ہیں۔
 
